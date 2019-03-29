@@ -1,0 +1,101 @@
+29 Mar 19 16:27:17 (DEBUG):  Searching current directory for .xml files.
+29 Mar 19 16:27:17 (DEBUG):  Found playlist.xml
+29 Mar 19 16:27:19 (DEBUG):  Attempting to load playlist file ./playlist.xml
+29 Mar 19 16:27:19 (DEBUG):  Playlist loaded successfully!
+29 Mar 19 16:29:30 (DEBUG):  Searching current directory for .xml files.
+29 Mar 19 16:29:30 (DEBUG):  Found playlist.xml
+29 Mar 19 16:29:31 (DEBUG):  Attempting to load playlist file ./playlist.xml
+29 Mar 19 16:29:32 (DEBUG):  Playlist loaded successfully!
+29 Mar 19 16:30:45 (DEBUG):  Searching current directory for .xml files.
+29 Mar 19 16:30:45 (DEBUG):  Found playlist.xml
+29 Mar 19 16:31:37 (DEBUG):  Searching current directory for .xml files.
+29 Mar 19 16:31:37 (DEBUG):  Found playlist.xml
+29 Mar 19 16:43:12 (DEBUG):  Searching current directory for .xml files.
+29 Mar 19 16:43:12 (DEBUG):  Found playlist.xml
+29 Mar 19 16:43:21 (DEBUG):  Searching current directory for .xml files.
+29 Mar 19 16:43:21 (DEBUG):  Found playlist.xml
+29 Mar 19 16:43:24 (DEBUG):  Attempting to load playlist file ./playlist.xml
+29 Mar 19 16:43:24 (DEBUG):  Playlist loaded successfully!
+29 Mar 19 16:43:34 (DEBUG):  findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('C:\\Users\\poffm\\PycharmProjects\\iTunes Analyzer\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+29 Mar 19 16:43:34 (DEBUG):  findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\poffm\\PycharmProjects\\iTunes Analyzer\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+29 Mar 19 16:43:34 (DEBUG):  update_title_pos
+29 Mar 19 16:43:34 (DEBUG):  findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\Users\\poffm\\PycharmProjects\\iTunes Analyzer\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+29 Mar 19 16:43:34 (DEBUG):  update_title_pos
+29 Mar 19 16:47:54 (DEBUG):  Searching current directory for .xml files.
+29 Mar 19 16:47:54 (DEBUG):  Found playlist.xml
+29 Mar 19 16:47:56 (DEBUG):  Attempting to load playlist file ./playlist.xml
+29 Mar 19 16:47:56 (DEBUG):  Playlist loaded successfully!
+29 Mar 19 16:47:57 (DEBUG):  findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('C:\\Users\\poffm\\PycharmProjects\\iTunes Analyzer\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+29 Mar 19 16:47:57 (DEBUG):  findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\poffm\\PycharmProjects\\iTunes Analyzer\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+29 Mar 19 16:47:57 (DEBUG):  update_title_pos
+29 Mar 19 16:47:57 (DEBUG):  findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\Users\\poffm\\PycharmProjects\\iTunes Analyzer\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+29 Mar 19 16:47:57 (DEBUG):  update_title_pos
+29 Mar 19 16:48:46 (DEBUG):  Searching current directory for .xml files.
+29 Mar 19 16:48:46 (DEBUG):  Found playlist.xml
+29 Mar 19 16:48:48 (DEBUG):  Attempting to load playlist file ./playlist.xml
+29 Mar 19 16:48:48 (DEBUG):  Playlist loaded successfully!
+29 Mar 19 16:48:49 (DEBUG):  findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('C:\\Users\\poffm\\PycharmProjects\\iTunes Analyzer\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+29 Mar 19 16:48:49 (DEBUG):  findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\poffm\\PycharmProjects\\iTunes Analyzer\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+29 Mar 19 16:48:49 (DEBUG):  update_title_pos
+29 Mar 19 16:48:49 (DEBUG):  findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\Users\\poffm\\PycharmProjects\\iTunes Analyzer\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+29 Mar 19 16:48:49 (DEBUG):  update_title_pos
+29 Mar 19 16:56:08 (DEBUG):  Searching current directory for .xml files.
+29 Mar 19 16:56:08 (DEBUG):  Found playlist.xml
+29 Mar 19 16:56:10 (DEBUG):  Attempting to load playlist file ./playlist.xml
+29 Mar 19 16:56:10 (DEBUG):  Playlist loaded successfully!
+29 Mar 19 16:56:11 (DEBUG):  findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('C:\\Users\\poffm\\PycharmProjects\\iTunes Analyzer\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+29 Mar 19 16:56:11 (DEBUG):  findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\poffm\\PycharmProjects\\iTunes Analyzer\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+29 Mar 19 16:56:11 (DEBUG):  update_title_pos
+29 Mar 19 16:56:11 (DEBUG):  findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\Users\\poffm\\PycharmProjects\\iTunes Analyzer\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+29 Mar 19 16:56:11 (DEBUG):  update_title_pos
+29 Mar 19 16:57:43 (DEBUG):  Searching current directory for .xml files.
+29 Mar 19 16:57:43 (DEBUG):  Found playlist.xml
+29 Mar 19 16:57:46 (DEBUG):  Attempting to load playlist file ./playlist.xml
+29 Mar 19 16:57:46 (DEBUG):  Playlist loaded successfully!
+29 Mar 19 16:57:47 (DEBUG):  findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=8.0 to DejaVu Sans ('C:\\Users\\poffm\\PycharmProjects\\iTunes Analyzer\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+29 Mar 19 16:57:47 (DEBUG):  findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\poffm\\PycharmProjects\\iTunes Analyzer\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+29 Mar 19 16:57:47 (DEBUG):  update_title_pos
+29 Mar 19 16:57:47 (DEBUG):  findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\Users\\poffm\\PycharmProjects\\iTunes Analyzer\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+29 Mar 19 16:57:47 (DEBUG):  update_title_pos
+29 Mar 19 16:58:14 (DEBUG):  update_title_pos
+29 Mar 19 16:58:14 (DEBUG):  update_title_pos
+29 Mar 19 16:59:46 (DEBUG):  update_title_pos
+29 Mar 19 16:59:46 (DEBUG):  update_title_pos
+29 Mar 19 17:00:23 (DEBUG):  update_title_pos
+29 Mar 19 17:00:23 (DEBUG):  update_title_pos
+29 Mar 19 17:00:29 (DEBUG):  Searching current directory for .xml files.
+29 Mar 19 17:00:29 (DEBUG):  Found playlist.xml
+29 Mar 19 17:00:30 (DEBUG):  Attempting to load playlist file ./playlist.xml
+29 Mar 19 17:00:30 (DEBUG):  Playlist loaded successfully!
+29 Mar 19 17:00:30 (DEBUG):  Searching current directory for .xml files.
+29 Mar 19 17:00:30 (DEBUG):  Found playlist.xml
+29 Mar 19 17:00:33 (DEBUG):  Attempting to load playlist file ./playlist.xml
+29 Mar 19 17:00:33 (DEBUG):  Playlist loaded successfully!
+29 Mar 19 17:00:33 (DEBUG):  Searching current directory for .xml files.
+29 Mar 19 17:00:33 (DEBUG):  Found playlist.xml
+29 Mar 19 17:00:34 (DEBUG):  Attempting to load playlist file ./playlist.xml
+29 Mar 19 17:00:35 (DEBUG):  Playlist loaded successfully!
+29 Mar 19 17:00:35 (DEBUG):  Searching current directory for .xml files.
+29 Mar 19 17:00:35 (DEBUG):  Found playlist.xml
+29 Mar 19 17:00:58 (DEBUG):  Searching current directory for .xml files.
+29 Mar 19 17:00:58 (DEBUG):  Found playlist.xml
+29 Mar 19 17:00:59 (DEBUG):  Attempting to load playlist file ./playlist.xml
+29 Mar 19 17:01:00 (DEBUG):  Playlist loaded successfully!
+29 Mar 19 17:01:00 (DEBUG):  Searching current directory for .xml files.
+29 Mar 19 17:01:00 (DEBUG):  Found playlist.xml
+29 Mar 19 17:01:01 (DEBUG):  Attempting to load playlist file ./playlist.xml
+29 Mar 19 17:01:01 (DEBUG):  Playlist loaded successfully!
+29 Mar 19 17:01:01 (DEBUG):  Searching current directory for .xml files.
+29 Mar 19 17:01:01 (DEBUG):  Found playlist.xml
+29 Mar 19 17:01:24 (DEBUG):  Searching current directory for .xml files.
+29 Mar 19 17:01:24 (DEBUG):  Found playlist.xml
+29 Mar 19 17:01:25 (DEBUG):  Attempting to load playlist file ./playlist.xml
+29 Mar 19 17:01:25 (DEBUG):  Playlist loaded successfully!
+29 Mar 19 17:01:36 (DEBUG):  Searching current directory for .xml files.
+29 Mar 19 17:01:36 (DEBUG):  Found playlist.xml
+29 Mar 19 17:01:37 (DEBUG):  Attempting to load playlist file ./playlist.xml
+29 Mar 19 17:01:38 (DEBUG):  Playlist loaded successfully!
+29 Mar 19 17:01:39 (DEBUG):  Searching current directory for .xml files.
+29 Mar 19 17:01:39 (DEBUG):  Found playlist.xml
+29 Mar 19 17:01:40 (DEBUG):  Attempting to load playlist file ./playlist.xml
+29 Mar 19 17:01:40 (DEBUG):  Playlist loaded successfully!
